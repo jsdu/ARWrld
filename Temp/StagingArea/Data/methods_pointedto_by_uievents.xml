@@ -1,0 +1,17 @@
+<linker>
+	<assembly fullname="Assembly-CSharp">
+		<type fullname="ColorPresets">
+			<method name="PresetSelect"/>
+			<method name="PresetSelect"/>
+			<method name="PresetSelect"/>
+			<method name="PresetSelect"/>
+			<method name="PresetSelect"/>
+			<method name="PresetSelect"/>
+			<method name="CreatePresetButton"/>
+			<method name="PresetSelect"/>
+			<method name="PresetSelect"/>
+			<method name="PresetSelect"/>
+			<method name="PresetSelect"/>
+		</type>
+	</assembly>
+</linker>
